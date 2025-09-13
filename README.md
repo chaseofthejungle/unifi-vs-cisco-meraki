@@ -16,6 +16,16 @@
 
 ## 2. <a name="compare">Comparison and Contrast</a>
 
+| *Feature* | *Meraki* | *Ubiquiti* |
+| :---: | :---: | :----: |
+| Management Model | | |
+| Intended Users | | |
+| Learning Curve | | |
+| Scalability | |
+| Security | |
+| Pricing | |
+| Support | |
+
 <hr />
 
 ## 3. <a name="supplemental">Supplemental Resources</a>
