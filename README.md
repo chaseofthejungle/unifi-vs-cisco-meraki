@@ -18,7 +18,7 @@
 
 | *Feature* | *Meraki* | *Ubiquiti* |
 | :---: | :---: | :----: |
-| Management Model | | |
+| Management Model | Cloud (dashboard provided via the web), for all monitoring, management, and device configuration services. | Hybrid Cloud (remote dashboard provided via UniFi Site Manager, for multi-site management). UniFi controller software is ran as a private cloud, on-premises, or by using Ubiquiti Cloud Key hybrid hardware. |
 | Intended Users | | |
 | Learning Curve | | |
 | Scalability | |
