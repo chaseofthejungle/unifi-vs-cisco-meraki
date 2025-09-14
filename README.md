@@ -6,7 +6,8 @@
 
 1. [Introducing Meraki and Ubiquiti](#introducing)
 2. [Comparison and Contrast](#compare)
-3. [Supplemental Resources](#supplemental)
+3. [Which to Choose](#choose)
+4. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -28,7 +29,24 @@
 
 <hr />
 
-## 3. <a name="supplemental">Supplemental Resources</a>
+## 3. <a name="choose">Which to Choose</a>
+
+**It might be advisable to choose Ubiquiti (and in particular, UniFi) if:**
+
+* Your organization has the expertise and preference for manual/hands-on configuration.
+  + UniFi allows significant control and customization, including over network infrastructure.
+* A less expensive long-term option is important (no recurring license fees), although enterprise-level performance is necessary.
+  + These conditions are common in small and medium sized organizations.
+
+**It might be advisable to choose Meraki if:**
+
+* Easy network management is preferred or necessary (such as if the IT team lacks experience), even if the organization is large and distributed.
+  + The UniFi Site Manager dashboard simplifies multi-site remote network management while providing high scalability and security.
+* Complex and automated security integrations, as well as 24/7 tech/customer support, are desired or necessary. 
+ 
+<hr />
+
+## 4. <a name="supplemental">Supplemental Resources</a>
 
 * *[Cisco Meraki Official Website](https://meraki.cisco.com/)*
 * *[Ubiquiti Official Website](https://ui.com/)*
