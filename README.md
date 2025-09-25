@@ -17,6 +17,8 @@
 
 ## 2. <a name="compare">Comparison and Contrast</a>
 
+Many of the significant differences between Cisco Meraki and Ubiquiti's UniFi can be attributed to the former's enterprise-level, highly supported and 100% cloud-hosted format, in comparison the latter's cost-friendly, highly customizable approach that's geared toward small-to-medoum sized businesses and network technicians with a high degree of previous training.
+
 | *Feature* | *Meraki* | *Ubiquiti* |
 | :---: | :---: | :----: |
 | Management Model | Cloud (dashboard provided via the web), for all monitoring, management, and device configuration services. | Hybrid Cloud (remote dashboard provided via UniFi Site Manager, for multi-site management). UniFi controller software is ran as a private cloud, on-premises, or by using Ubiquiti Cloud Key hybrid hardware. |
@@ -25,7 +27,7 @@
 | Scalability | High, enterprise-caliber scalability that is automated and centralized through a cloud-based dashboard. | Potential for scalability, but likely to need increasing manual configurations and modifications as devices and integrations grow. |
 | Security | Features enterprise-level security integrations, including AI-powered threat detection. | Likely to satisfy the needs of small-to-medium sized businesses. |
 | Pricing | More initially expensive due to powerful hardware and annual licensing fees (required for most Meraki products, but not every). | Less initially expensive hardware, and no license fees for any of the essential software. |
-| Support | |
+| Support | Annual license comes with 24/7 support, feature updates, and hardware replacement guarantees. | Dependent upon community-based support rather than formal agreements on service and response times. |
 
 <hr />
 
