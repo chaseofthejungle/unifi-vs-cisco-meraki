@@ -5,19 +5,28 @@
 #### Table of Contents
 
 1. [Introducing Meraki and Ubiquiti](#introducing)
-2. [Comparison and Contrast](#compare)
-3. [Which to Choose](#choose)
-4. [Supplemental Resources](#supplemental)
+2. [Meraki Cloud Architecture](#architecture)
+3. [Comparison and Contrast](#compare)
+4. [Which to Choose](#choose)
+5. [Supplemental Resources](#supplemental)
 
 <hr />
 
 ## 1. <a name="introducing">Introducing Meraki and Ubiquiti</a>
 
+(TODO)
+
 <hr />
 
-## 2. <a name="compare">Comparison and Contrast</a>
+## 2. <a name="architecture">Meraki Cloud Architecture</a>
 
-Many of the significant differences between Cisco Meraki and Ubiquiti's UniFi can be attributed to the former's enterprise-level, highly supported and 100% cloud-hosted format, in comparison the latter's cost-friendly, highly customizable approach that's geared toward small-to-medoum sized businesses and network technicians with a high degree of previous training.
+(TODO)
+
+<hr />
+
+## 3. <a name="compare">Comparison and Contrast</a>
+
+Many of the significant differences between Cisco Meraki and Ubiquiti's UniFi can be attributed to the former's enterprise-level, highly supported and 100% cloud-hosted network management format, in comparison to the latter's cost-friendly, highly customizable approach that's geared toward small-to-medium sized businesses and network technicians with a high level of previous training.
 
 | *Feature* | *Meraki* | *Ubiquiti* |
 | :---: | :---: | :----: |
@@ -31,7 +40,7 @@ Many of the significant differences between Cisco Meraki and Ubiquiti's UniFi ca
 
 <hr />
 
-## 3. <a name="choose">Which to Choose</a>
+## 4. <a name="choose">Which to Choose</a>
 
 **It might be advisable to choose Ubiquiti (and in particular, UniFi) if:**
 
@@ -48,7 +57,7 @@ Many of the significant differences between Cisco Meraki and Ubiquiti's UniFi ca
  
 <hr />
 
-## 4. <a name="supplemental">Supplemental Resources</a>
+## 5. <a name="supplemental">Supplemental Resources</a>
 
 * *[Cisco Meraki Official Website](https://meraki.cisco.com/)*
 * *[Ubiquiti Official Website](https://ui.com/)*
