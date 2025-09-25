@@ -24,7 +24,7 @@
 | Learning Curve | Features a beginner-friendly dashboard and the potential to zero-touch provision devices with automated configurations for quick and easy deployments even when there are many interfaces attached to the network. | Network administrators expected to have advanced knowledge for installations and configurations of platform, especially if needs are complex. |
 | Scalability | High, enterprise-caliber scalability that is automated and centralized through a cloud-based dashboard. | Potential for scalability, but likely to need increasing manual configurations and modifications as devices and integrations grow. |
 | Security | Features enterprise-level security integrations, including AI-powered threat detection. | Likely to satisfy the needs of small-to-medium sized businesses. |
-| Pricing | |
+| Pricing | More initially expensive due to powerful hardware and annual licensing fees (required for most Meraki products, but not every). | Less initially expensive hardware, and no license fees for any of the essential software. |
 | Support | |
 
 <hr />
