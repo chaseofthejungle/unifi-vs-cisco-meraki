@@ -22,7 +22,7 @@
 | Management Model | Cloud (dashboard provided via the web), for all monitoring, management, and device configuration services. | Hybrid Cloud (remote dashboard provided via UniFi Site Manager, for multi-site management). UniFi controller software is ran as a private cloud, on-premises, or by using Ubiquiti Cloud Key hybrid hardware. |
 | Intended Users | Larger organizations and enterprises that are willing to pay subscription fees for full-scale, simple, automated, and professionally supported service management. | Organizations that are not quite large but do have technically knowledgable networking staff who are willing/desiring to have more managerial control over their networks. |
 | Learning Curve | Features a beginner-friendly dashboard and the potential to zero-touch provision devices with automated configurations for quick and easy deployments even when there are many interfaces attached to the network. | Network administrators expected to have advanced knowledge for installations and configurations of platform, especially if needs are complex. |
-| Scalability | |
+| Scalability | High, enterprise-caliber scalability that is automated and centralized through a cloud-based dashboard. | Potential for scalability, but likely to need increasing manual configurations and modifications as devices and integrations grow. |
 | Security | |
 | Pricing | |
 | Support | |
